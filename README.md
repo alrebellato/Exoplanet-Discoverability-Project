@@ -1,8 +1,3 @@
-# Maths40 Project Repo
-👋 Hey! Welcome to our project repo. 
-## 📚 Dataset ##
-### Brief description of dataset ###
-Maths40 draws its work from the exoPlanet dataset. This dataset conatins various properties of planets outside of our own solar system.
 ### Columns ###
 * sy_snum:        Number of Stars
 * sy_pnum:        Number of Planets
