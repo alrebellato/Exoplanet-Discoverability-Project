@@ -34,9 +34,7 @@ The Python notebook files in this repo may be too large to view within github in
 * sy_pmdec:       Proper Motion (Dec) [mas/yr]
 * sy_dist:        Distance [pc]
 * sy_plx:         Parallax [mas]
-## 🔬 Aim
+### 🔬 Aim
 To Discover the features of our dataset that have influence over exoplanet discoverability.
-## 😁 Significance
-Why is this target feature important?
-## 💖 Credits
+### Credits
 The dataset was produced by the NASA Exoplanet Archive http://exoplanetarchive.ipac.caltech.edu
