@@ -1,3 +1,6 @@
+### Note to viewers ###
+The Python notebook files in this repo may be too large to view within github in a browser. Cloning this repo may be required for viewing the programming itself. Some example visualisations are shown below regardless.
+
 ### Example Data Visualisations ###
 ![First Example](/link)
 ![First Example](/link)
