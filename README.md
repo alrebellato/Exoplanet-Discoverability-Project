@@ -32,12 +32,8 @@ Maths40 draws its work from the exoPlanet dataset. This dataset conatins various
 * sy_dist:        Distance [pc]
 * sy_plx:         Parallax [mas]
 ## 🔬 Aim
-Talk about our target feature
+To Discover the features of our dataset that have influence over exoplanet discoverability.
 ## 😁 Significance
 Why is this target feature important?
 ## 💖 Credits
 The dataset was produced by the NASA Exoplanet Archive http://exoplanetarchive.ipac.caltech.edu
-## 👨‍👩‍👦 Authors
-  - Rafat
-  - Adrian
-  - Athul
