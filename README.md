@@ -5,44 +5,45 @@ The Python notebook files in this repo may be too large to view within github in
 <details>
   <summary>Radial View of exoplanet position + size at 5000 Parsecs</summary>
   <br>
-  ![5k Parsecs view](/img/5000ParsecsSize.png)
+  <img src="/img/5000ParsecsSize.png" alt="5k Parsecs view">
  </details>
  
  <details>
   <summary>Radial View of exoplanet position + size at 2000 Parsecs</summary>
   <br>
-  ![2k Parsecs View](/img/2000ParsecsSize.png)
+  <img src="/img/2000ParsecsSize.png" alt="2k Parsecs View">
  </details>
  
  <details>
   <summary>View of exoplanets from surface of the Earth</summary>
   <br>
-  ![Earth-view Location Projection](/LocationProjection.png)
-  Notice the dense clump to the left of center. This is the data from the Keplar Mission, which we will isolate below.
+  <img src="/img/LocationProjection.png" alt="Earth-view Location Projection">
+  Notice the dense clump of exoplanets left of center. This is data from the Keplar mission.
  </details>
  
  <details>
   <summary>Zoom in on the Keplar Mission data</summary>
   <br>
-  ![Keplar Mission Only](/img/KeplarZoomIn.png)
+  <img src="/img/KeplarZoomIn.png" alt="Keplar Mission Only">
+  Compare these datapoints with the scanning area from <a href="https://www.nasa.gov/mission_pages/kepler/overview/index.html">the offical mission's overview page from NASA</a>
  </details>
  
  <details>
   <summary>One of many comparison we conducted to find correlations between features</summary>
   <br>
-  ![PeriodVsOrbit + Planet Radius](/img/PeriodVsOrbit.png)
+  <img src="/img/PeriodVsOrbit.png" alt="PeriodVsOrbit + Planet Radius">
  </details>
  
  <details>
   <summary>Comparing discovered planets per system vs distance from Earth (sol)</summary>
   <br>
-  ![PlanetCount per solar system vs Distance from Sol](/img/planetCountVsDistance.png)
+  <img src="/img/planetCountVsDistance.png" alt="PlanetCount per solar system vs Distance from Sol">
  </details>
  
  <details>
   <summary>Multiple Linear Regression vs Deep Neural Network models</summary>
   <br>
-  ![MLR vs DNN models](/img/MlrVsDnn.png)
+  <img src="/img/MlrVsDnn.png" alt="MLR vs DNN models">![]()
  </details>
 
 
