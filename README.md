@@ -2,13 +2,55 @@
 The Python notebook files in this repo may be too large to view within github in a browser. Cloning this repo may be required for viewing the programming itself. Some example visualisations are shown below regardless.
 
 ### Example Data Visualisations ###
-![5k Parsecs view](/img/5000ParsecsSize.png)
-![2k Parsecs View](/img/2000ParsecsSize.png)
-![Earth-view Location Projection](/LocationProjection.png)
-![Keplar Mission Only](/img/KeplarZoomIn.png)
-![PeriodVsOrbit + Planet Radius](/img/PeriodVsOrbit.png)
-![PlanetCount per solar system vs Distance from Sol](/img/planetCountVsDistance.png)
-![MLR vs DNN models](/img/MlrVsDnn.png)
+<details>
+  <summary>Radial View of exoplanet position + size at 5000 Parsecs</summary>
+  <br>
+  ![5k Parsecs view](/img/5000ParsecsSize.png)
+ </details>
+ 
+ <details>
+  <summary>Radial View of exoplanet position + size at 2000 Parsecs</summary>
+  <br>
+  ![2k Parsecs View](/img/2000ParsecsSize.png)
+ </details>
+ 
+ <details>
+  <summary>View of exoplanets from surface of the Earth</summary>
+  <br>
+  ![Earth-view Location Projection](/LocationProjection.png)
+  Notice the dense clump to the left of center. This is the data from the Keplar Mission, which we will isolate below.
+ </details>
+ 
+ <details>
+  <summary>Zoom in on the Keplar Mission data</summary>
+  <br>
+  ![Keplar Mission Only](/img/KeplarZoomIn.png)
+ </details>
+ 
+ <details>
+  <summary>One of many comparison we conducted to find correlations between features</summary>
+  <br>
+  ![PeriodVsOrbit + Planet Radius](/img/PeriodVsOrbit.png)
+ </details>
+ 
+ <details>
+  <summary>Comparing discovered planets per system vs distance from Earth (sol)</summary>
+  <br>
+  ![PlanetCount per solar system vs Distance from Sol](/img/planetCountVsDistance.png)
+ </details>
+ 
+ <details>
+  <summary>Multiple Linear Regression vs Deep Neural Network models</summary>
+  <br>
+  ![MLR vs DNN models](/img/MlrVsDnn.png)
+ </details>
+
+
+
+
+
+
+
 
 ### Column Abbreviations ###
 * sy_snum:        Number of Stars
