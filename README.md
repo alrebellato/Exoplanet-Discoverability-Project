@@ -2,9 +2,13 @@
 The Python notebook files in this repo may be too large to view within github in a browser. Cloning this repo may be required for viewing the programming itself. Some example visualisations are shown below regardless.
 
 ### Example Data Visualisations ###
-![First Example](/link)
-![First Example](/link)
-![First Example](/link)
+![5k Parsecs view](/img/5000ParsecsSize.png)
+![2k Parsecs View](/img/2000ParsecsSize.png)
+![Earth-view Location Projection](/LocationProjection.png)
+![Keplar Mission Only](/img/KeplarZoomIn.png)
+![PeriodVsOrbit + Planet Radius](/img/PeriodVsOrbit.png)
+![PlanetCount per solar system vs Distance from Sol](/img/planetCountVsDistance.png)
+![MLR vs DNN models](/img/MlrVsDnn.png)
 
 ### Column Abbreviations ###
 * sy_snum:        Number of Stars
