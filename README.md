@@ -1,4 +1,9 @@
-### Columns ###
+### Example Data Visualisations ###
+![First Example](/link)
+![First Example](/link)
+![First Example](/link)
+
+### Column Abbreviations ###
 * sy_snum:        Number of Stars
 * sy_pnum:        Number of Planets
 * sy_mnum:        Number of Moons
